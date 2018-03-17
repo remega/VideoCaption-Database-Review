@@ -42,6 +42,7 @@ MPII-MD |[PDF][v2]| [Link][c2] | movie | 68,337 clips with 68,375 sentences| MPI
 MSR-VTT |[PDF][v1]| [Link][c1] | 20 categories| 10,000 clips wth 200,000 sentences| MSR | -
 Charades |[PDF][p4]| [Link][l4] | human activity| 9,848 clips wth 27,847 sentences| AI2 | -
 Densevid |[PDF][v3]| [Link][c3] | event | 20k clips and 100k sentences | Stanford, ActivityNet | -
+LSMDC |[PDF][v4]| [Link][c4] | event | 128,085 clips and 128,118 sentences | Max Planck, MPII-MD + M-VAD | -
 
 ## Video Question Answering 
 Dataset | Paper | Website | Task | #Examples | Organizer | SOTA performance
@@ -92,4 +93,7 @@ MarioQA |[PDF][q2]| [Link][a2] | reasoning events in game videos | 187,757 examp
 [a1]: http://movieqa.cs.toronto.edu/home/
 [q2]: https://arxiv.org/abs/1612.01669
 [a2]: http://cvlab.postech.ac.kr/research/MarioQA/
+
+[v4]: https://link.springer.com/article/10.1007/s11263-016-0987-1
+[c4]: https://sites.google.com/site/describingmovies/
 
